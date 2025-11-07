@@ -1,0 +1,6 @@
+{
+  "version": "3.0.4",
+  "url_zip": "http://localhost:8000/Patch-TibiaMachine.zip",
+  "hash": "sha256:ccc6500f0de87c31d9d0111eb9d4a2d1e2c302625adda8d8a64929e0e7f92908",
+  "notes": "Teste local de auto-update com Patch-TibiaMachine.zip"
+}

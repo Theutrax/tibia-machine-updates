@@ -1,6 +1,6 @@
 {
+  "notes": "Patch 3.0.4: correções e melhorias",
   "version": "3.0.4",
-  "url_zip": "https://github.com/Theutrax/tibia-machine-updates/releases/download/v3.0.4/Patch-TibiaMachine-3.0.4.zip",
-  "sha256": "ccc6500f0de87c31d9d0111eb9d4a2d1e2c302625adda8d8a64929e0e7f92908",
-  "notes": "Patch 3.0.4: correções e melhorias"
+  "hash": "sha256:ccc6500f0de87c31d9d0111eb9d4a2d1e2c302625adda8d8a64929e0e7f92908",
+  "url_zip": "https://github.com/Theutrax/tibia-machine-updates/releases/download/v3.0.4/Patch-TibiaMachine-3.0.4.zip"
 }

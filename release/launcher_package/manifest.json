@@ -1,6 +1,6 @@
 {
   "version": "3.0.6",
-  "url_zip": "https://github.com/Theutrax/tibia-machine-updates/releases/download/v3.0.6/Launcher-TibiaMachine_v3.0.6_20251108-1211.zip",
-  "hash": "sha256:e1ea5484450be3cc3f0c18770b82362e1ccbd3c55ee24a100b5842e12f528109",
-  "notes": "Release automático via publish_release.py."
+  "url_zip": "https://github.com/Theutrax/tibia-machine-updates/releases/download/v3.0.6/Launcher-TibiaMachine_v3.0.6_20251108-1223.zip",
+  "hash": "sha256:6ec9ed7df957610d660f7e106eb83329d8e9a2691a6ce9ec13c6872e1b634ba8",
+  "notes": "Launcher package rebuild: updated encryption key and corrected dat/key sourcing from dist\\\\TibiaMachine"
 }

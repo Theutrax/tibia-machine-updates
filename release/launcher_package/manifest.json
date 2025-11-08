@@ -1,0 +1,6 @@
+{
+  "version": "3.0.6",
+  "url_zip": "https://github.com/Theutrax/tibia-machine-updates/releases/download/v3.0.6/Launcher-TibiaMachine_v3.0.6_20251108-1051.zip",
+  "hash": "sha256:acaf66d3fdd3d6da1c6c8c702238a26ad3ff68e29ce428834909edf1c41e43ee",
+  "notes": "Release automático via publish_release.py."
+}
